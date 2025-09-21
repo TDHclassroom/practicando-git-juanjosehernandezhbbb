@@ -1,1 +1,5 @@
-hola profesor otra vez
+## caracteristicas
+-Aprendiendo Git paso a paso
+
+## Características
+- Aprendiendo Git paso a paso
