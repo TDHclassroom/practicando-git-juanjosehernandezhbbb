@@ -1,2 +1,2 @@
-## Información del proyecto
-Versión desarrollada en rama main
+# Mi Proyecto Git
+Este es mi primer proyecto usando Git
