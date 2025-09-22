@@ -1,2 +1,2 @@
 ## Información del proyecto
-Versión desarrollada en rama main
+Versión combinada de ambas ramas
