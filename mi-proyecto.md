@@ -1,7 +1,10 @@
-## caracteristicas
--Aprendiendo Git paso a paso
+# \# Mi Proyecto Git
 
-## Características
-- Aprendiendo Git paso a paso
-## Última actualización
-Editado desde GitHub web interface
+# Este es mi primer proyecto usando Git
+
+# 
+
+# \## Características
+
+# Aprendiendo Git paso a paso
+
